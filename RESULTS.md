@@ -1,5 +1,5 @@
 # Test Results
 
-| File | Date | OS | Result (CLI Output) | Outcome |
-|------|------|----|--------|---------|
-| [24.04.2025](https://github.com/SheBox/test-shit/tree/main/24.04.2025) | 2025-04-24 | Debian 12 | PSIX! | ✅ Passed |
+| File | Date | OS | Result (CLI Output) | Outcome | Conditions |
+|------|------|----|--------|---------|---------|
+| [24.04.2025](https://github.com/SheBox/test-shit/tree/main/24.04.2025) | 2025-04-24 | Debian 12 | PSIX! | ✅ Passed | Static linking with Lua |
